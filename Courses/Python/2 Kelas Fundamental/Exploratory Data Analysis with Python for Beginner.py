@@ -7,12 +7,6 @@ import numpy as np
 import pandas as pd
 
 
-# # # # # # # # # 
-# In[2]:
-
-
-
-
 
 # # # # # # # # # Tugas Praktek
 
